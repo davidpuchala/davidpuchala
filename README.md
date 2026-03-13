@@ -15,7 +15,7 @@ BSc from the University of Amsterdam, now finishing an MSc in Business Analytics
 
 | | |
 |---|---|
-| **🗺️ [Restaurant Recommender](https://github.com/davidpuchala/gmaps-prototype)**<br>Personalised restaurant discovery app using Google Places API, OpenAI, and a weighted scoring engine. Built with Streamlit. | **☁️ [AWS Document Intelligence Pipeline](https://github.com/davidpuchala/aws-document-pipeline)**<br>Serverless document classification and routing pipeline: Lambda · S3 · Textract · DynamoDB · SNS · API Gateway. |
+| **🗺️ [Restaurant Recommender](https://github.com/davidpuchala/gmaps-prototype)**<br>Google Maps "For You" prototype — surfaces personalised restaurant picks by scoring Places API candidates against a synthesised user taste profile. Weighted engine (cuisine match, rating, price, distance) + OpenAI-generated explanations. Built with Streamlit. | **☁️ [AWS Document Intelligence Pipeline](https://github.com/davidpuchala/aws-document-pipeline)**<br>Serverless document classification and routing pipeline: Lambda · S3 · Textract · DynamoDB · SNS · API Gateway. |
 
 ---
 
