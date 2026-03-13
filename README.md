@@ -4,7 +4,7 @@
 
 **Business Analytics MSc @ ESADE · Analytics & Client-Facing Roles**
 
-BSc from the University of Amsterdam, now finishing an MSc in Business Analytics at ESADE. Background in international partnerships (AIESEC, 8 countries) and digital strategy. Currently doing a capstone with Volkswagen Group on Connected Services data for 1M+ enrolled vehicles.
+BSc from the University of Amsterdam, now finishing an MSc in Business Analytics at ESADE. Background in international partnerships (AIESEC, 8 countries) and digital strategy. Currently acting as a student analyst consulting CUPRA (Volkswagen Group) as part of my MSc capstone, analysing Connected Services adoption and performance data across 1M+ enrolled vehicles.
 
 📍 Barcelona · 🌍 Czech Republic · Netherlands  
 🗣️ English · Czech · Spanish · Russian
